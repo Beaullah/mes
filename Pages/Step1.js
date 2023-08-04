@@ -85,7 +85,7 @@ export default function App() {
         </TouchableOpacity>
         <TouchableOpacity style={styles.social}>
           <FontAwesome name="google" size={30} color="blue" />
-          <Text>Login with googe</Text>
+          <Text>Login with google </Text>
         </TouchableOpacity>
       </View>
       <StatusBar style="auto" />
